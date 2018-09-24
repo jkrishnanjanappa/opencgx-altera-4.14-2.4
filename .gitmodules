@@ -54,3 +54,7 @@
 	path = layers/meta-qa
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-qa.git
 	branch = rocko
+[submodule "layers/meta-altera"]
+	path = layers/meta-altera
+	url = https://github.com/kraj/meta-altera.git
+	branch = rocko
